@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkabore/burger.git"
+  },
+  "author": "Josias K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkabore/burger/issues"
+  },
+  "homepage": "https://github.com/jkabore/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "orm": "^4.0.2",
+    "require": "^2.4.20"
+  }
+}
